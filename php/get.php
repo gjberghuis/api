@@ -1,7 +1,7 @@
 #!/usr/bin/env php
 <?php
 include 'pomsbundle/Request.php';
-include '../../creds.php';
+include 'creds.php';
 
 
 $request = new Ntr\PomsBundle\Poms\Request(array(
